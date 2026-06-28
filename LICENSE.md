@@ -1,4 +1,4 @@
-# 
+# Instant Docker Desktop plugins for Mac OS | Elite Docker Desktop plugins for PC Windows. Featuring integrated-terminal and code-analysis — optimized for maximum performance on every platform.
 
 
 
